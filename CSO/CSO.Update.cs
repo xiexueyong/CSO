@@ -4,7 +4,7 @@ using CSOEngine.Object;
 using CSOEngine.Utils.Pool;
 using UnityEngine;
 
-namespace CSOEngine.Group {
+namespace CSOEngine {
   
 
     /// <summary>

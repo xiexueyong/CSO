@@ -5,7 +5,7 @@ using CSOEngine.Utils.Pool;
 
 namespace CSOEngine.State
 {
-    public sealed class CSOStateMachine:ComponentsContainer,IDestroyable
+    public sealed class CSOStateMachine:ComponentsContainer
     {
         private Dictionary<Type,CSOState> _states;
         private CSOState _curState;

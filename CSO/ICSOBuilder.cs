@@ -1,7 +1,7 @@
 using CSOEngine.Object;
 using JetBrains.Annotations;
 
-namespace CSOEngine.Group
+namespace CSOEngine
 {
     /// <summary>
     /// cso对象构造器接口

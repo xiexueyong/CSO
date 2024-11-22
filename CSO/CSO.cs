@@ -4,7 +4,7 @@ using JetBrains.Annotations;
 using CSOEngine.Utils.Pool;
 using UnityEngine;
 
-namespace CSOEngine.Group {
+namespace CSOEngine {
     /// <summary>
     /// CSObject工厂类
     /// </summary>
